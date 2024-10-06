@@ -1,2 +1,2 @@
 # Assignment-2-
-Assignment2 create different pages with html and css.
+This is prectics of HTML and CSS.I have Create Twitter llogin and signup pages.
